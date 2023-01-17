@@ -1,0 +1,12 @@
+{
+  "workbench.colorCustomizations": {
+    "tab.activeBackground": "#3c3f43",
+    "editor.background": "#120047",
+    "activityBar.activeBorder": "#bd01bd",
+    "panelTitle.activeBorder": "#bd01bd",
+    "panel.background": "#3c3f43",
+    "terminal.background": "#120047",
+    "sideBar.background": "#000000",
+    "sideBarSectionHeader.background": "#3c3f43"
+  }
+}
